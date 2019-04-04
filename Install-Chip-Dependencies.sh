@@ -19,6 +19,10 @@ git clone https://github.com/linux-sunxi/sunxi-tools.git
 
 cd sunxi-tools 
 
+pkg-config --libs libusb-1.0
+
+pkg-config --libs zlib
+
 sudo make tools 
 
 sudo make install 
