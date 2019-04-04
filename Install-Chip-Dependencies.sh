@@ -11,9 +11,9 @@ cd /usr/local/bin
 
 wget https://github.com/Thore-Krug/Sunxi-tools-Mac/archive/V.1.0.zip
 
-unzip Sunxi-tools-Mac-V.1.0.zip
+unzip V.1.0.zip
 
-rm Sunxi-tools-Mac-V.1.0.zip
+rm V.1.0.zip
 
 cd
 
