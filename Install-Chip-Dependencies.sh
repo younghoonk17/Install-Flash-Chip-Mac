@@ -23,9 +23,7 @@ pkg-config --libs libusb-1.0
 
 pkg-config --libs zlib
 
-sudo make all
-
-sudo make install 
+sudo make install-misc
 
 cd
 
