@@ -156,10 +156,12 @@ read flavour
 if [ -d Chip-tools-Mac ]; then
  cd Chip-tools-Mac
  git pull
+ chmod +x *.sh
  FEL='sudo sunxi-fel' FASTBOOT='sudo fastboot' SNIB=false ./chip-update-firmware.sh -$flavour
  elif [ ! -d Chip-tools-Mac ]; then
  git clone https://github.com/Thore-Krug/Chip-tools-Mac.git
  cd  Chip-tools-Mac
+ chmod +x *.sh
  FEL='sudo sunxi-fel' FASTBOOT='sudo fastboot' SNIB=false ./chip-update-firmware.sh -$flavour
 fi
 
