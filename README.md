@@ -30,3 +30,7 @@
 3. Just restart the Script (fixes most of the Problem with FEL and Fastboot ) 
 4. If this does not help reboot, retry
 5. Open an Issue on this Git Repo. 
+
+## Support my work by Donating 
+
+https://www.paypal.me/a13tech
