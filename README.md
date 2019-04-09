@@ -5,10 +5,12 @@
 ## Ready to use environment to Flash your C.H.I.P Single Board Computer on MacOS 
  Simplyfies the Flashing Process for the C.H.I.P and PocketC.H.I.P Computer.
  
+ 
  ## Special Thanks to Nerten 
+ 
  https://github.com/Nerten 
  
- I dont know if i would finish my Work without him. 
+ I dont know if i would finished this Work without him. 
 
 ## Instructions
 1. Remove the C.H.I.P from its case (in case you have a Pocket C.H.I.P).
