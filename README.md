@@ -17,7 +17,7 @@
     - `cd` into the location where you stored this repository.
     - run `sudo chmod +x Flasher.sh`
     - `./Flash.sh help` will give out the help 
-    - `./Flash.sh install all` install all the things you need to Flash your C.H.I.P 
+    - `./Flash.sh install-all` install all the things you need to Flash your C.H.I.P 
     - `./Flash.sh flash` Will Flash your C.H.I.P
     - Select the version you want to install.
     - Wait until the installation finishes.
