@@ -27,6 +27,6 @@
 
 1. Kill the Script with ctrl + C 
 2. Read the output if something is not installed or Permissions are missing 
-3. Just restart the Script (fixes of the Problem with FEL and Fastboot ) 
+3. Just restart the Script (fixes most of the Problem with FEL and Fastboot ) 
 4. If this does not help reboot, retry
 5. Open an Issue on this Git Repo. 
