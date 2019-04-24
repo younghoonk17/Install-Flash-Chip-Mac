@@ -35,7 +35,7 @@ function install-sunxi-tools {
 
   pkg-config --libs zlib
 
-  sudo make install-misc
+  sudo make install-all
 }
 
 # Reinstall the Brew Packages
