@@ -4,14 +4,11 @@
 
 function install-brew {
 
-  sudo /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" -y
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
   brew install bash wget curl screen u-boot-tools libusb zlib pkg-config git 
-  wget https://raw.githubusercontent.com/Homebrew/homebrew-cask/cf82f0a10d08afd146e176c275a03964ae9e5866/Casks/android-platform-tools.rb
-
-  brew cask install android-platform-tools.rb
-
-  rm android-platform-tools.rb
+  
+  brew install homebrew/cask/android-platform-tools
 }
 
 #Install the C.H.I.P Tools ported for MacOS
