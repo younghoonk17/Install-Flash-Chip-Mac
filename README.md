@@ -1,4 +1,6 @@
 # Install-Flash-Chip-Mac
+
+#Unsupported on Mac OS 1.13+ 
 ![Sucessful Flashed](https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-0/p320x320/56119926_418247262055853_7781281606957793280_n.jpg?_nc_cat=109&_nc_ht=scontent-frt3-1.xx&oh=1382283de4082b42c9e2094abc502944&oe=5D3DFDF0)
 
 
