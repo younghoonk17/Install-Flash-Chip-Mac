@@ -1,18 +1,8 @@
 # Install-Flash-Chip-Mac
 
-# Unsupported on Mac OS 1.13+ 
-![Sucessful Flashed](https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-0/p320x320/56119926_418247262055853_7781281606957793280_n.jpg?_nc_cat=109&_nc_ht=scontent-frt3-1.xx&oh=1382283de4082b42c9e2094abc502944&oe=5D3DFDF0)
-
 
 ## Ready to use environment to Flash your C.H.I.P Single Board Computer on MacOS 
  Simplyfies the Flashing Process for the C.H.I.P and PocketC.H.I.P Computer.
- 
- 
- ## Special Thanks to Nerten 
- 
- https://github.com/Nerten 
- 
- I dont know if i would finished this Work without him. 
 
 ## Instructions
 1. Remove the C.H.I.P from its case (in case you have a Pocket C.H.I.P).
@@ -37,6 +27,7 @@
 4. If this does not help reboot, retry
 5. Open an Issue on this Git Repo. 
 
-## Support my work by Donating 
+ 
+https://github.com/Thore-Krug
 
-https://www.paypal.me/a13tech
+This is all made by this guy, this is just a folk with little change to get it working with newer Fastboot
